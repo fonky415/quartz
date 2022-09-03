@@ -1,0 +1,5 @@
+Tags: #Science #Biology 
+
+Sexual selection is a mechanism of evolution. 
+
+[[Evolution]] is the change in traits of species. This occurs with the survival of the fittest, who are the best at making offspring. As sexual selection selects organisms who are best at reproducing that have traits that directly increases their chance to mate, sexual selection is a direct factor in the fittness of an organism, affecting the species' evolution. For example, lions with bigger manes are sexually selected, as those with bigger manes have the best chance of mating. This will make marger manes a more common trait in future generations. We can also see this in the results of the mating game graphs, where males with higher quality sperm had more matings than males with lower quality sperm. Sexual selection can occur for both male and females, and can therefore affect the traits of both sexes. 

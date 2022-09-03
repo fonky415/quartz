@@ -1,0 +1,112 @@
+{
+  "main": {
+    "id": "cfa4122b38433c7a",
+    "type": "split",
+    "children": [
+      {
+        "id": "4a37cfc24ab94fb0",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "School/Math/11 Data Analysis & Statistics/11.6 Testing Hypotheses from Experiments.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ac5c824ad93aad1e",
+    "type": "split",
+    "children": [
+      {
+        "id": "27cbc051a8da95bc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0c217076cb5803d3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ea60a559d2401363",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#math",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 336
+  },
+  "right": {
+    "id": "b8de6a42b884e3b1",
+    "type": "split",
+    "children": [
+      {
+        "id": "b01e6f201b6d209c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7a3f039e08f444ad",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "School/Math/11 Data Analysis & Statistics/11.6 Testing Hypotheses from Experiments.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dc87b101f4743c5b",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "4a37cfc24ab94fb0",
+  "lastOpenFiles": [
+    "School/Math/11 Data Analysis & Statistics/11.6 Testing Hypotheses from Experiments.md",
+    "School/Math/11 Data Analysis & Statistics/parameters.md",
+    "Untitled.md",
+    "11.6+Testing+Hypotheses+from+Experiments.pdf",
+    "11.6+Testing+Hypotheses+from+Experiments 1.pdf",
+    "Unschool/Investing/theta wheel.md",
+    "Unschool/Investing/Null hypothesis.md",
+    "Unschool/Investing/Eilliot Wave Theory.md",
+    "**Null hypothesis (H<sub>0</sub>)**.md",
+    "Unschool/Investing/**Null hypothesis.md"
+  ]
+}

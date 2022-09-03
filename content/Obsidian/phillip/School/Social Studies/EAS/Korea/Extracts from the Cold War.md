@@ -1,0 +1,35 @@
+# Extracts from the Cold War 
+Created: 2022-04-08 08:35
+Tags: #EAS #Extract #History 
+
+## Document A
+###### Part of the text of the *Sino-Soviet Treaty of Friendship and Alliance*, 1950. 
+
+*ARTICLE I.* [...]The High Contracting Parties declare their readiness in the spirit of sincere co-operation to participate in all international actions aimed at ensuring peace and security throughout the world, and will do all in their power to achieve the speediest implementation of these tasks.
+
+*ARTICLE III.* Both High Contracting Parties undertake not to conclude any alliance directed against the other High Contracting Party, and not to take part in any coalition or in actions or measures directed against the other High Contracting Party. 
+
+*ARTICLE IV.* Both High Contracting Parties will consult each other in regard to all important international problems affecting the common interests of the Soviet Union and China, being guided by the interests of the consolidation of peace and universal security. [...] 
+
+## Document B 
+###### Extract from *The Cold War, 1917-1960, Vol. 2*, by D. F. Fleming, published in 1961. 
+
+From the standpoint of the great power struggle, the grounds for defending South Korea were strong. It was believed that if the North Korean aggression succeeded, Indo-China would be almost certain to fall under communist control, with the aid of whatever Chinese forces were necessary. The snowballing effect of communist triumphs might make Thailand and Burma relatively easy conquests. Since Indo-China is strategically the key to all South East Asia, the stubborn communist guerrilla movement in Malaya might be expected to gain momentum, with aid from the north, and gun-running to the Huks in the Philippines would not be too difficult. Both in the Philippines and Japan, also, the psychology of Red success would operate powerfully. In the end it might be difficult to hold Japan, especially since she cannot exist, apart from American doles, in the absence of trade with China and South East Asia. As in every crisis of the Cold War, the image of the falling dominoes was allowed free rein. 
+
+A communist sweep in Asia would tend to "paralyze the defense of Europe," where another doubtful economic situation existed, on top of some unstable social conditions. In West Europe the feeling might well spread that resistance to the Red "wave of the future" was hopeless. 
+
+Thus far the Truman Doctrine had been enforced in Europe, but it had been a dismal failure in East Asia. If now the tremendous triumph of communism in China were capped by further Red gains in Asia the effect on Europe might be decisive. In the United States, too, the result might be decisive for the Truman Administration. Its foes were already making capital bitterly about the non-enforcement of the Doctrine in China. If it collapsed in Asia there would be a mighty outcry indeed. A stage in the Cold War had come which seemed to compel a defense of the Doctrine in Asia. 
+
+## Document C 
+###### Extract from Khrushchev’s memoirs (*Khrushchev Remembers, 1971, ed. E. Crankshaw*). 
+
+About the time I was transferred from the Ukraine to Moscow at the end of 1949, Kim Il Sung arrived with his delegation to hold consultations with Stalin. The North Koreans wanted to prod South Korea with the point of a bayonet. Kim Il Sung said the first poke would touch on an internal explosion in South Korea and the power of the people would prevail - that is, the power which ruled in North Korea. Stalin couldn’t oppose this idea. It appealed to his convictions as a communist all the more because the struggle would be an internal matter which the Koreans would be settling among themselves. [...] Stalin persuaded Kim to think it over, make some calculations, and then come back with a concrete plan. Kim returned to Moscow when he had worked everything out. He told Stalin he was absolutely certain of success. I remember Stalin had his doubts. He was worried the Americans would jump in, but we were inclined to think that if the war were fought swiftly - and Kim was sure it could be won swiftly - then intervention by the USA could be avoided. 
+
+Nevertheless Stalin decided to ask Mao Zedong’s opinion of Kim’s suggestion. I must stress that the war was not Stalin’s idea, but Kim Il Sung’s. Kim was the initiator. Stalin, of course, didn’t try to dissuade him. In my opinion no real communist would have tried to dissuade Kim Il Sung from his compelling desire to liberate South Korea from Syngman Rhee and from reactionary American influence. [...] Mao also answered affirmatively. He approved Kim’s suggestion and offered the opinion that the USA would not intervene since the war would be an internal matter which the Korean people would decide for themselves. 
+
+I remember a high-spirited dinner at Stalin’s dacha. Kim Il Sung told us about the conditions of life in Korea and he stressed the many attractive things about South Korea–the good soil and excellent climate for growing rice, the prosperous fishing industry, and so on. He said that after the reunification of North and South Korea, Korea as a whole would benefit. Korea would be able to ensure the supply of raw materials for her industry from the north and to meet the food requirements from the fish, rice and other agricultural products which flourished in the south. We wished Kim every success and toasted the whole North Korean leadership, looking forward to the day when their struggle would be won. 
+
+## Document D 
+###### Extract from *The Cold War* by H. Higgins, 1974. 
+
+Evidence about the origin of the Korean War is largely circumstantial. The orthodox assessment in the West of the circumstances is that the North Koreans could not conceivably have started the war without consulting Stalin. In fact, when they attacked across the border on 25 June, they were, it is argued, following orders from Moscow. Stalin, having lost the initiative in Europe, was determined to regain it in Asia. China, now in communist hands, was an excellent base for further offensive. Deutscher indeed has suggested that Stalin, in pursuing a forward policy in Korea, was demonstrating that the Chinese were not the only communists in Asia. He was not going to be upstaged by Mao. By taking over the whole of Korea he would be threatening the American control of Japan, one of the key areas of US strategy in the Pacific. A success in Korea might also encourage the communists fighting in Indo-China. (At the beginning of 1950 the USA was sufficiently concerned about the French position there to grant them $10 million credits). It seemed obvious that the war had been instigated, for a number of reasons, by the Russians. Korea was yet another piece in the jigsaw of Soviet expansionism. That version was (and still is) accepted by majority opinion in the West. A minority, however, has argued that other circumstantial evidence makes the conventional version less credible. 

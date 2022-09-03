@@ -1,0 +1,1 @@
+<span class='centerImg'> ![[image file]] </span>

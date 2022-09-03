@@ -1,0 +1,193 @@
+{
+  "main": {
+    "id": "7970bed1e2645d3e",
+    "type": "split",
+    "children": [
+      {
+        "id": "079c8191a08d1461",
+        "type": "leaf",
+        "state": {
+          "type": "kanban",
+          "state": {
+            "file": "Kanban.md"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "db0296c5b8caed9c",
+    "type": "split",
+    "children": [
+      {
+        "id": "16ab3bbce0a9d9c1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6b5a596e4a7d5431",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "61db835f77a8201a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "Rach",
+                "matchingCase": true,
+                "explainSearch": true,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "56642449efc76ad2",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "2d16e6549cb9a6be",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "24bf9e65d354ac33",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 270.0050811767578,
+    "collapsed": true
+  },
+  "right": {
+    "id": "79ccb50ec541397e",
+    "type": "split",
+    "children": [
+      {
+        "id": "671c1a9e0453917a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "930d0bee0ad08c77",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Kanban.md",
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cd7b4fb3cb277e03",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "e5bde77b5b61985a",
+            "type": "leaf",
+            "state": {
+              "type": "dictionary-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "dfec3184efc9f3bb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "83e8b1e6adcd7ea3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Kanban.md"
+              }
+            }
+          },
+          {
+            "id": "a5dcf344deb596f0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Kanban.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "473f96224ed0999b",
+            "type": "leaf",
+            "state": {
+              "type": "graph-analysis",
+              "state": {}
+            }
+          },
+          {
+            "id": "636a2dd15f508702",
+            "type": "leaf",
+            "state": {
+              "type": "graph-analysis",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 295.85150146484375,
+    "collapsed": true
+  },
+  "active": "079c8191a08d1461",
+  "lastOpenFiles": [
+    "School/Social Studies/AP World History/1200-1450 The Global Tapestry/Ibn Battuta.md",
+    "School/Social Studies/AP World History/1200-1450 The Global Tapestry/Meso America.md",
+    "School/Social Studies/AP World History/1200-1450 The Global Tapestry/Mississippian Culture.md",
+    "School/Social Studies/AP World History/1200-1450 The Global Tapestry/The New World.md",
+    "School/Social Studies/AP World History/1200-1450 The Global Tapestry/Southernization.md",
+    "School/Social Studies/AP World History/1200-1450 The Global Tapestry/Architecture Comparison.md",
+    "School/Science/Chemistry/chemical.md",
+    "School/Science/Chemistry/Chemistry Foundations, Matter and the Atom/Extensive properties.md",
+    "School/Science/Chemistry/Chemistry Foundations, Matter and the Atom/Matter.md",
+    "School/Science/Chemistry/Chemistry Foundations, Matter and the Atom/Untitled.md"
+  ]
+}

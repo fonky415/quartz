@@ -1,0 +1,17 @@
+{
+  "characterRegex": "a-zA-ZöäüÖÄÜß",
+  "maxLookBackDistance": 50,
+  "minWordLength": 3,
+  "minWordTriggerLength": 4,
+  "wordInsertionMode": "Ignore-Case & Append",
+  "latexProviderEnabled": true,
+  "latexTriggerInCodeBlocks": true,
+  "latexMinWordTriggerLength": 2,
+  "latexIgnoreCase": false,
+  "fileScannerProviderEnabled": true,
+  "fileScannerScanCurrent": true,
+  "wordListProviderEnabled": true,
+  "frontMatterProviderEnabled": true,
+  "frontMatterTagAppendSuffix": true,
+  "insertionKey": "Tab"
+}

@@ -1,0 +1,6 @@
+---
+tags:
+- Extract
+---
+# {{title}} 
+

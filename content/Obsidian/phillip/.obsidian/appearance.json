@@ -1,0 +1,14 @@
+{
+  "baseFontSize": 15,
+  "cssTheme": "Prism",
+  "translucency": false,
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "red_tag",
+    "green_tag",
+    "smooth_cursor",
+    "centerImg"
+  ],
+  "textFontFamily": "iA Writer Quattro S",
+  "interfaceFontFamily": "iA Writer Quattro S"
+}
