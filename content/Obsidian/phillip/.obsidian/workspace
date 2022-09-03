@@ -7,10 +7,8 @@
         "id": "079c8191a08d1461",
         "type": "leaf",
         "state": {
-          "type": "kanban",
-          "state": {
-            "file": "Kanban.md"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -72,12 +70,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 270.0050811767578,
-    "collapsed": true
+    "width": 270.0050811767578
   },
   "right": {
     "id": "79ccb50ec541397e",
@@ -93,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kanban.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -136,9 +132,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Kanban.md"
-              }
+              "state": {}
             }
           },
           {
@@ -147,7 +141,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kanban.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,8 +170,10 @@
     "width": 295.85150146484375,
     "collapsed": true
   },
-  "active": "079c8191a08d1461",
+  "active": "2d16e6549cb9a6be",
   "lastOpenFiles": [
+    "Obsidian/Templates/Complete Musician.md",
+    "Kanban.md",
     "School/Social Studies/AP World History/1200-1450 The Global Tapestry/Ibn Battuta.md",
     "School/Social Studies/AP World History/1200-1450 The Global Tapestry/Meso America.md",
     "School/Social Studies/AP World History/1200-1450 The Global Tapestry/Mississippian Culture.md",
@@ -186,8 +181,6 @@
     "School/Social Studies/AP World History/1200-1450 The Global Tapestry/Southernization.md",
     "School/Social Studies/AP World History/1200-1450 The Global Tapestry/Architecture Comparison.md",
     "School/Science/Chemistry/chemical.md",
-    "School/Science/Chemistry/Chemistry Foundations, Matter and the Atom/Extensive properties.md",
-    "School/Science/Chemistry/Chemistry Foundations, Matter and the Atom/Matter.md",
-    "School/Science/Chemistry/Chemistry Foundations, Matter and the Atom/Untitled.md"
+    "School/Science/Chemistry/Chemistry Foundations, Matter and the Atom/Extensive properties.md"
   ]
 }
